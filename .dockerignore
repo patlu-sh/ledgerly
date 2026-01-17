@@ -1,0 +1,16 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Environment variables
+.env
+
+# Database
+data.db
+
+# Build artifacts
+ledgerly
