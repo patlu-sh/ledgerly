@@ -42,6 +42,16 @@ go build -o ledgerly cmd/main.go
 
 ---
 
+## Branches
+
+| Branch | Type |
+| ------ | ---- |
+| `main` | Main branch |
+| `dev` | Development branch |
+| `feat/petty-cash-mgmt` | Feature branch |
+| `test/backend` | Test branch |
+---
+
 ## API Documentation
 
 Swagger UI available at: **`http://localhost:8080/swagger/index.html`**
